@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": "a44a48cf63d3",
+      "title": "Test",
+      "description": "this is a test",
+      "scheduledTime": "2025-10-23T14:51:00.000Z",
+      "duration": 30,
+      "location": "Test",
+      "participants": 0,
+      "ticketCost": "Free",
+      "category": "activity",
+      "status": "completed",
+      "eventType": "scheduled",
+      "mapPosition": {
+        "x": 26.113293977662178,
+        "y": 47.560922526713476
+      }
+    },
+    {
+      "id": "d34a09cbb0d3",
+      "title": "Test event",
+      "description": "test event",
+      "scheduledTime": "2025-10-23T20:00:00.000Z",
+      "duration": 30,
+      "location": "Test",
+      "participants": 0,
+      "ticketCost": "Free",
+      "category": "activity",
+      "status": "completed",
+      "eventType": "scheduled",
+      "mapPosition": null
+    },
+    {
+      "id": "ec300abb50c1",
+      "title": "Face Painting",
+      "description": "This is a face painting event",
+      "scheduledTime": "",
+      "duration": 30,
+      "location": "Test",
+      "participants": 0,
+      "ticketCost": "3",
+      "category": "activity",
+      "status": "upcoming",
+      "eventType": "constant",
+      "mapPosition": null
+    }
+  ],
+  "mapBlocks": [
+    {
+      "id": "block-1",
+      "type": "wall",
+      "label": "North Wall",
+      "position": {
+        "x": 10.0,
+        "y": 5.0
+      },
+      "size": {
+        "width": 80.0,
+        "height": 3.0
+      }
+    }
+  ]
+}
